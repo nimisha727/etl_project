@@ -1,0 +1,8 @@
+kaggle data set
+https://www.kaggle.com/shiffy46/drug-reviews/data
+
+Drugs Brand Name, Generic Name Data Set
+https://www.rxassist.org/pap-info/generic-drug-list-print
+
+Top 200 Drugs
+https://clincalc.com/DrugStats/Top200Drugs.aspx
